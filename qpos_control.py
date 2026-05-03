@@ -23,7 +23,7 @@ import numpy as np
 
 # ─────────────────────── 默认配置 ───────────────────────
 
-DEFAULT_XML_PATH   = "./push_scene.xml"
+DEFAULT_XML_PATH   = "/home/ubuntu/lerobot-s101-sim/push_scene.xml"
 DEFAULT_WRIST_CAM  = "wrist_cam"
 
 CAM_W, CAM_H       = 640, 480

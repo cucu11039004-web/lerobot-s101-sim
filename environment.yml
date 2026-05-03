@@ -1,0 +1,10 @@
+name: lerobot-s101-sim
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - mujoco
+  - pip:
+      - opencv-python
